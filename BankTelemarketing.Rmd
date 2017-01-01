@@ -2,7 +2,7 @@
 title: "Identifying Bank Telemarketing Market Segmentation Using Classification Algorithms"
 author: "by Davin Kaing, Pinkaew Choengtawee, Jiating Chen, Hanbo Li"
 date: "January 1, 2017"
-output: html_document
+output: github_document
 ---
 
 # Abstract
